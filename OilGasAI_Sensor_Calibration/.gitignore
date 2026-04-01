@@ -1,0 +1,38 @@
+# Data files (keep code, exclude raw data)
+*.csv
+*.xlsx
+*.xls
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+.env
+
+# IDE
+.vs/
+*.suo
+*.user
+*.pyproj
+*.sln
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (too large for GitHub)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
