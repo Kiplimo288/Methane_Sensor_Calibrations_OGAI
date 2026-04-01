@@ -85,21 +85,19 @@ I designed, built, and field-deployed a low-cost continuous methane monitoring u
 
 > *Solar-powered autonomous sensor unit deployed in a controlled-release field environment. The unit continuously logs methane concentration, wind vector, temperature, and humidity for ML calibration against reference-grade Aeris MIRA analyzer measurements.*
 
-![AMMMU Field Deployment](https://raw.githubusercontent.com/Kiplimo288/Methane_Sensor_Calibrations_OGAI/main/images/ammmu_field_deployment_metec.jpg)
+<img src="https://raw.githubusercontent.com/Kiplimo288/Methane_Sensor_Calibrations_OGAI/main/images/ammmu_field_deployment_metec.jpg" width="600"/>
 
 **Internal sensor assembly — custom PCB with TGS2600, TGS2611, and DHT22:**
 
 > *Custom-built sensor enclosure showing the Raspberry Pi data logger, Figaro TGS2600 and TGS2611 MOx sensor array, DHT22 temperature/humidity module, and signal conditioning circuitry. Enclosure designed for weatherproof outdoor deployment.*
 
-![Sensor Internals](https://raw.githubusercontent.com/Kiplimo288/Methane_Sensor_Calibrations_OGAI/main/images/sensor_pcb_assembly.jpg)
+<img src="https://raw.githubusercontent.com/Kiplimo288/Methane_Sensor_Calibrations_OGAI/main/images/sensor_pcb_assembly.jpg" width="600"/>
 
 **METEC facility instrumentation rack — reference measurement system:**
 
 > *METEC instrumentation enclosure showing the Phidgets SBC4 data acquisition system, LabJack T7 analog interface, Phidgets 7-port USB hub, Airmar weather station integration, and reference gas flow control systems used for controlled-release calibration experiments.*
 
-![METEC Instrumentation Rack](https://raw.githubusercontent.com/Kiplimo288/Methane_Sensor_Calibrations_OGAI/main/images/metec_instrumentation_rack.jpg)
-
----
+<img src="https://raw.githubusercontent.com/Kiplimo288/Methane_Sensor_Calibrations_OGAI/main/images/metec_instrumentation_rack.jpg" width="600"/>---
 
 ## The ML Calibration Pipeline
 
