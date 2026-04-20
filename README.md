@@ -62,7 +62,7 @@ Low-cost metal oxide (MOx) sensors like the Figaro TGS2600 and TGS2611 cost unde
 
 ### Sensor Unit — AMMMU (Autonomous Mobile Methane Measurement Unit)
 
-I designed, built, and field-deployed a low-cost continuous methane monitoring unit at Colorado State University's **Methane Emissions Technology Evaluation Center (METEC)** as part of the **SABER (Screening and Bayesian Estimation of Releases) project**, a U.S. Department of Energy-funded study.
+I designed, built, and field-deployed a low-cost continuous methane monitoring unit at Colorado State University's **Methane Emissions Technology Evaluation Center (METEC)** as part of the **SABER (Site Aerial Basin Emissions Reconciliation) project**, a U.S. Department of Energy-funded study.
 
 **Sensor array:**
 - **Figaro TGS2600** — Metal oxide sensor, sensitive to 1–30 ppm CH₄ range
