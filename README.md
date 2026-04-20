@@ -279,7 +279,7 @@ sensors-ml-calibration/
 This work was conducted at:
 
 - **Colorado State University — METEC Facility**, Fort Collins, CO
-- **SABER Project** (Screening and Bayesian Estimation of Releases) — U.S. Department of Energy funded
+- **SABER Project** (Site Aerial Basin Emissions Reconciliation) — U.S. Department of Energy funded
 - **Peer-reviewed publications:** 6 papers in MDPI journals on DJ Basin oil and gas emissions
 
 **Compute support for OilGasAI Model Alpha training:**
